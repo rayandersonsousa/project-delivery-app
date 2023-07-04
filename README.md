@@ -39,3 +39,4 @@ Esse é um projeto full stack, onde foi desenvolvido o banco de dados, o back-en
   - Desenvolver endpoints da aplicação.
   - Desenvolver o front-end da aplicação.
   - Conectar o front-end com o back-end ultilizando o Axios.
+  - Desenvolver testes que garantam boa cobertura e funcionamento da aplicação.
